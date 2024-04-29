@@ -1,0 +1,2 @@
+# Public.img
+Drawing bed
